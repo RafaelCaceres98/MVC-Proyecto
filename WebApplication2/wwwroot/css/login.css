@@ -1,0 +1,89 @@
+﻿/* Estilo general para el cuerpo de la página */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f7fc; /* Color de fondo suave */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center; /* Centra el contenido horizontalmente */
+    align-items: center; /* Centra el contenido verticalmente */
+    height: 100vh; /* Hace que el cuerpo ocupe toda la altura de la ventana */
+}
+
+/* Estilo para el contenedor del formulario */
+.login-container {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    width: 100%;
+    margin: 20px;
+}
+
+/* Estilo del título */
+h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Estilo para los elementos del formulario */
+form div {
+    margin-bottom: 20px;
+}
+
+label {
+    font-size: 16px;
+    color: #333;
+    display: block;
+    margin-bottom: 8px; /* Corregido: Espacio entre el label y el campo */
+}
+
+/* Estilo de los campos de entrada */
+input[type="email"],
+input[type="password"] {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+    /* Estilo cuando los campos de entrada están enfocados */
+    input[type="email"]:focus,
+    input[type="password"]:focus {
+        border-color: #007bff;
+        outline: none;
+    }
+
+/* Estilo del botón */
+button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 12px;
+    width: 100%;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+    /* Estilo cuando el botón es hover */
+    button:hover {
+        background-color: #0056b3;
+    }
+
+/* Estilo para el mensaje de error */
+p {
+    color: red;
+    font-size: 14px;
+    text-align: center;
+}
+
+/* Estilo adicional para los grupos de formulario */
+.form-group {
+    margin-bottom: 20px;
+}
