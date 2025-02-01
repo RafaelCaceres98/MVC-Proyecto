@@ -7,8 +7,32 @@
       "RelativeMoniker": "D:0:0:{8EC2033D-C9B5-4CF2-AABA-F3F6AEB2D24B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EC2033D-C9B5-4CF2-AABA-F3F6AEB2D24B}|WebApplication2\\WebApplication2.csproj|c:\\users\\profe caceres rafael\\source\\repos\\webapplication2\\webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8EC2033D-C9B5-4CF2-AABA-F3F6AEB2D24B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8EC2033D-C9B5-4CF2-AABA-F3F6AEB2D24B}|WebApplication2\\WebApplication2.csproj|c:\\users\\profe caceres rafael\\source\\repos\\webapplication2\\webapplication2\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EC2033D-C9B5-4CF2-AABA-F3F6AEB2D24B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC2033D-C9B5-4CF2-AABA-F3F6AEB2D24B}|WebApplication2\\WebApplication2.csproj|c:\\users\\profe caceres rafael\\source\\repos\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC2033D-C9B5-4CF2-AABA-F3F6AEB2D24B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC2033D-C9B5-4CF2-AABA-F3F6AEB2D24B}|WebApplication2\\WebApplication2.csproj|c:\\users\\profe caceres rafael\\source\\repos\\webapplication2\\webapplication2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC2033D-C9B5-4CF2-AABA-F3F6AEB2D24B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC2033D-C9B5-4CF2-AABA-F3F6AEB2D24B}|WebApplication2\\WebApplication2.csproj|c:\\users\\profe caceres rafael\\source\\repos\\webapplication2\\webapplication2\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EC2033D-C9B5-4CF2-AABA-F3F6AEB2D24B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC2033D-C9B5-4CF2-AABA-F3F6AEB2D24B}|WebApplication2\\WebApplication2.csproj|c:\\users\\profe caceres rafael\\source\\repos\\webapplication2\\webapplication2\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EC2033D-C9B5-4CF2-AABA-F3F6AEB2D24B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC2033D-C9B5-4CF2-AABA-F3F6AEB2D24B}|WebApplication2\\WebApplication2.csproj|c:\\users\\profe caceres rafael\\source\\repos\\webapplication2\\webapplication2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC2033D-C9B5-4CF2-AABA-F3F6AEB2D24B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC2033D-C9B5-4CF2-AABA-F3F6AEB2D24B}|WebApplication2\\WebApplication2.csproj|c:\\users\\profe caceres rafael\\source\\repos\\webapplication2\\webapplication2\\wwwroot\\css\\indexproductos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8EC2033D-C9B5-4CF2-AABA-F3F6AEB2D24B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\wwwroot\\css\\indexproductos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 35,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,28 +66,107 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T23:02:42.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T23:01:30.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T23:00:31.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAmwCcAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBwAAABsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-31T19:45:36.816Z",
+              "WhenOpened": "2025-01-31T22:59:30.766Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAASwBYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-31T19:45:29.284Z"
+              "WhenOpened": "2025-01-31T22:30:48.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "indexProductos.css",
+              "DocumentMoniker": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\css\\indexProductos.css",
+              "RelativeDocumentMoniker": "WebApplication2\\wwwroot\\css\\indexProductos.css",
+              "ToolTip": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\css\\indexProductos.css",
+              "RelativeToolTip": "WebApplication2\\wwwroot\\css\\indexProductos.css",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAUwF8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-31T22:30:11.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T22:26:58.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T22:26:52.389Z",
+              "EditorCaption": ""
             }
           ]
         },

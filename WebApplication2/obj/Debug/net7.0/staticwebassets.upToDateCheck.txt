@@ -1,4 +1,7 @@
+wwwroot\css\editarProducto.css
+wwwroot\css\indexProductos.css
 wwwroot\css\login.css
+wwwroot\css\Productos.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\site.js

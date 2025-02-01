@@ -5,6 +5,18 @@
       "PackagePath": "staticwebassets\\WebApplication2.tpm8towifh.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\css\\Productos.css",
+      "PackagePath": "staticwebassets\\css\\Productos.css"
+    },
+    {
+      "Id": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\css\\editarProducto.css",
+      "PackagePath": "staticwebassets\\css\\editarProducto.css"
+    },
+    {
+      "Id": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\css\\indexProductos.css",
+      "PackagePath": "staticwebassets\\css\\indexProductos.css"
+    },
+    {
       "Id": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\css\\login.css",
       "PackagePath": "staticwebassets\\css\\login.css"
     },

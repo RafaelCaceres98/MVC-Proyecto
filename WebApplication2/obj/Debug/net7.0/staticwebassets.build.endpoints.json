@@ -85,6 +85,252 @@
       ]
     },
     {
+      "Route": "css/Productos.a6owzdehz2.css",
+      "AssetFile": "css/Productos.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YrlCI60tvUpsQnvNd3thHHm+FtwVx/qTeZWx4LiSYjM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 22:18:01 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a6owzdehz2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YrlCI60tvUpsQnvNd3thHHm+FtwVx/qTeZWx4LiSYjM="
+        },
+        {
+          "Name": "label",
+          "Value": "css/Productos.css"
+        }
+      ]
+    },
+    {
+      "Route": "css/Productos.css",
+      "AssetFile": "css/Productos.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YrlCI60tvUpsQnvNd3thHHm+FtwVx/qTeZWx4LiSYjM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 22:18:01 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YrlCI60tvUpsQnvNd3thHHm+FtwVx/qTeZWx4LiSYjM="
+        }
+      ]
+    },
+    {
+      "Route": "css/editarProducto.7iufpb0pj3.css",
+      "AssetFile": "css/editarProducto.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2238"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0bIbOu+oJOa7wC/xApB14MVqz7ykASxRMTIqI3jm8ZM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 22:35:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7iufpb0pj3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0bIbOu+oJOa7wC/xApB14MVqz7ykASxRMTIqI3jm8ZM="
+        },
+        {
+          "Name": "label",
+          "Value": "css/editarProducto.css"
+        }
+      ]
+    },
+    {
+      "Route": "css/editarProducto.css",
+      "AssetFile": "css/editarProducto.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2238"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0bIbOu+oJOa7wC/xApB14MVqz7ykASxRMTIqI3jm8ZM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 22:35:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0bIbOu+oJOa7wC/xApB14MVqz7ykASxRMTIqI3jm8ZM="
+        }
+      ]
+    },
+    {
+      "Route": "css/indexProductos.4odqme0s50.css",
+      "AssetFile": "css/indexProductos.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2066"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TGpQz7I9QtiH3Y/tQVkHNQGnwZR4PU1IcO5cnQq8YF0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 22:31:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4odqme0s50"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TGpQz7I9QtiH3Y/tQVkHNQGnwZR4PU1IcO5cnQq8YF0="
+        },
+        {
+          "Name": "label",
+          "Value": "css/indexProductos.css"
+        }
+      ]
+    },
+    {
+      "Route": "css/indexProductos.css",
+      "AssetFile": "css/indexProductos.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2066"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TGpQz7I9QtiH3Y/tQVkHNQGnwZR4PU1IcO5cnQq8YF0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 22:31:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TGpQz7I9QtiH3Y/tQVkHNQGnwZR4PU1IcO5cnQq8YF0="
+        }
+      ]
+    },
+    {
       "Route": "css/login.css",
       "AssetFile": "css/login.css",
       "Selectors": [],

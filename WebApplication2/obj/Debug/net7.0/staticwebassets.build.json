@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cVOYx63lGKguQDkLducsTXbInS5stmuZGG5QS19+PUY=",
+  "Hash": "snYiYWvKpaaBS1rRfOHkUupseIZJ6aq55cRmxmUZ0kI=",
   "Source": "WebApplication2",
   "BasePath": "_content/WebApplication2",
   "Mode": "Default",
@@ -59,6 +59,48 @@
       "OriginalItemSpec": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WebApplication2.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\css\\editarProducto.css",
+      "SourceId": "WebApplication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "BasePath": "_content/WebApplication2",
+      "RelativePath": "css/editarProducto#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7iufpb0pj3",
+      "Integrity": "0bIbOu+oJOa7wC/xApB14MVqz7ykASxRMTIqI3jm8ZM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\editarProducto.css"
+    },
+    {
+      "Identity": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\css\\indexProductos.css",
+      "SourceId": "WebApplication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "BasePath": "_content/WebApplication2",
+      "RelativePath": "css/indexProductos#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4odqme0s50",
+      "Integrity": "TGpQz7I9QtiH3Y/tQVkHNQGnwZR4PU1IcO5cnQq8YF0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\indexProductos.css"
+    },
+    {
       "Identity": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\css\\login.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
@@ -78,6 +120,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\login.css"
+    },
+    {
+      "Identity": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\css\\Productos.css",
+      "SourceId": "WebApplication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "BasePath": "_content/WebApplication2",
+      "RelativePath": "css/Productos#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a6owzdehz2",
+      "Integrity": "YrlCI60tvUpsQnvNd3thHHm+FtwVx/qTeZWx4LiSYjM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Productos.css"
     },
     {
       "Identity": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\css\\site.css",
@@ -1342,6 +1405,170 @@
   ],
   "Endpoints": [
     {
+      "Route": "css/editarProducto.7iufpb0pj3.css",
+      "AssetFile": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\css\\editarProducto.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2238"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0bIbOu+oJOa7wC/xApB14MVqz7ykASxRMTIqI3jm8ZM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 22:35:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7iufpb0pj3"
+        },
+        {
+          "Name": "label",
+          "Value": "css/editarProducto.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0bIbOu+oJOa7wC/xApB14MVqz7ykASxRMTIqI3jm8ZM="
+        }
+      ]
+    },
+    {
+      "Route": "css/editarProducto.css",
+      "AssetFile": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\css\\editarProducto.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2238"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0bIbOu+oJOa7wC/xApB14MVqz7ykASxRMTIqI3jm8ZM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 22:35:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0bIbOu+oJOa7wC/xApB14MVqz7ykASxRMTIqI3jm8ZM="
+        }
+      ]
+    },
+    {
+      "Route": "css/indexProductos.4odqme0s50.css",
+      "AssetFile": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\css\\indexProductos.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2066"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TGpQz7I9QtiH3Y/tQVkHNQGnwZR4PU1IcO5cnQq8YF0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 22:31:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4odqme0s50"
+        },
+        {
+          "Name": "label",
+          "Value": "css/indexProductos.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TGpQz7I9QtiH3Y/tQVkHNQGnwZR4PU1IcO5cnQq8YF0="
+        }
+      ]
+    },
+    {
+      "Route": "css/indexProductos.css",
+      "AssetFile": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\css\\indexProductos.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2066"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TGpQz7I9QtiH3Y/tQVkHNQGnwZR4PU1IcO5cnQq8YF0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 22:31:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TGpQz7I9QtiH3Y/tQVkHNQGnwZR4PU1IcO5cnQq8YF0="
+        }
+      ]
+    },
+    {
       "Route": "css/login.css",
       "AssetFile": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\css\\login.css",
       "Selectors": [],
@@ -1420,6 +1647,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-GC3uf4wgSp36Xei4gpFw9ek/tm0x2CtzK6k/wPImZKA="
+        }
+      ]
+    },
+    {
+      "Route": "css/Productos.a6owzdehz2.css",
+      "AssetFile": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\css\\Productos.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YrlCI60tvUpsQnvNd3thHHm+FtwVx/qTeZWx4LiSYjM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 22:18:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a6owzdehz2"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Productos.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YrlCI60tvUpsQnvNd3thHHm+FtwVx/qTeZWx4LiSYjM="
+        }
+      ]
+    },
+    {
+      "Route": "css/Productos.css",
+      "AssetFile": "C:\\Users\\Profe Caceres rafael\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\css\\Productos.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YrlCI60tvUpsQnvNd3thHHm+FtwVx/qTeZWx4LiSYjM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 22:18:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YrlCI60tvUpsQnvNd3thHHm+FtwVx/qTeZWx4LiSYjM="
         }
       ]
     },

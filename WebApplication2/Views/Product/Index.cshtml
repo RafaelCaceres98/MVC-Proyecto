@@ -1,0 +1,38 @@
+﻿@model IEnumerable<WebApplication2.Models.Product>
+
+
+
+<h1>Productos</h1>
+
+<link rel="stylesheet" href="~/css/indexProductos.css" />
+
+<p>
+    <a href="@Url.Action("Create", "Product")">Crear nuevo producto</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Precio</th>
+            <th>Descripción</th>
+            <th>Categoría</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+                <td>@product.Description</td>
+                <td>@product.Category</td>
+                <td>
+                    <a href="@Url.Action("Edit", "Product", new { id = product.Id })">Editar</a> |
+                    <a href="@Url.Action("Delete", "Product", new { id = product.Id })">Eliminar</a> |
+                    <a href="@Url.Action("Details", "Product", new { id = product.Id })">Detalles</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

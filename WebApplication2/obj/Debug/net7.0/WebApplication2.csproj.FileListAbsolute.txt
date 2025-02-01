@@ -77,3 +77,4 @@ C:\Users\Profe Caceres rafael\source\repos\WebApplication2\WebApplication2\bin\D
 C:\Users\Profe Caceres rafael\source\repos\WebApplication2\WebApplication2\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\Profe Caceres rafael\source\repos\WebApplication2\WebApplication2\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\Users\Profe Caceres rafael\source\repos\WebApplication2\WebApplication2\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Profe Caceres rafael\source\repos\WebApplication2\WebApplication2\obj\Debug\net7.0\WebApplication2.sourcelink.json

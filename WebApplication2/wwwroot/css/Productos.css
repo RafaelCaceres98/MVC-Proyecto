@@ -1,0 +1,121 @@
+﻿/* Estilo general para el cuerpo de la página */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start; /* Cambié 'center' a 'flex-start' para que el contenido esté más arriba */
+    height: 100vh;
+}
+
+/* Contenedor para el formulario y el título */
+.form-container {
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+    max-width: 500px;
+    width: 100%;
+    margin: 20px;
+}
+
+/* Título del formulario */
+.page-title {
+    text-align: center;
+    font-size: 28px;
+    color: #333;
+    margin-bottom: 20px; /* Aumenta el margen debajo del título para separar el título del formulario */
+}
+
+/* Estilo para los mensajes de éxito o error */
+.alert {
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #fff;
+}
+
+.alert-success {
+    background-color: #28a745; /* Verde */
+}
+
+.alert-danger {
+    background-color: #dc3545; /* Rojo */
+}
+
+/* Estilo para los elementos del formulario */
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    font-size: 16px;
+    color: #333;
+    font-weight: bold;
+    display: block;
+    margin-bottom: 8px;
+}
+
+input[type="text"],
+input[type="number"],
+textarea {
+    width: 100%;
+    padding: 12px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    box-sizing: border-box;
+    font-size: 16px;
+    transition: border-color 0.3s ease;
+}
+
+    input[type="text"]:focus,
+    input[type="number"]:focus,
+    textarea:focus {
+        border-color: #007bff;
+        outline: none;
+    }
+
+/* Estilo para los mensajes de validación */
+.text-danger {
+    font-size: 14px;
+    color: #dc3545;
+    margin-top: 5px;
+}
+
+/* Estilo del botón de submit */
+button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 12px 24px;
+    width: 100%;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+    button:hover {
+        background-color: #0056b3;
+    }
+
+/* Estilo para el formulario al estar en pantalla completa */
+@media (max-width: 600px) {
+    .form-container {
+        padding: 20px;
+    }
+
+    h1 {
+        font-size: 24px;
+    }
+
+    input[type="text"],
+    input[type="number"],
+    textarea,
+    button {
+        font-size: 14px;
+    }
+}

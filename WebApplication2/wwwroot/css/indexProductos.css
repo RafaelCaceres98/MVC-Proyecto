@@ -1,0 +1,101 @@
+﻿/* Estilo general del cuerpo */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+
+/* Título de la página */
+h1 {
+    text-align: center;
+    font-size: 36px;
+    color: #333;
+    margin: 40px 0 20px;
+}
+
+/* Enlace para crear nuevo producto */
+p a {
+    font-size: 18px;
+    color: #007bff;
+    text-decoration: none;
+    margin-bottom: 20px;
+    display: block;
+    text-align: center;
+}
+
+    p a:hover {
+        color: #0056b3;
+        text-decoration: underline;
+    }
+
+/* Estilo para la tabla */
+.table {
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    background-color: #fff;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden; /* Para que las esquinas redondeadas se mantengan */
+}
+
+    /* Encabezado de la tabla */
+    .table thead {
+        background-color: #007bff;
+        color: white;
+    }
+
+    .table th {
+        padding: 12px;
+        text-align: left;
+        font-weight: 600;
+        font-size: 16px;
+    }
+
+    .table td {
+        padding: 12px;
+        text-align: left;
+        font-size: 14px;
+        color: #555;
+        border-bottom: 1px solid #ddd;
+    }
+
+    /* Estilo para las filas de la tabla */
+    .table tbody tr:nth-child(odd) {
+        background-color: #f9f9f9;
+    }
+
+    .table tbody tr:hover {
+        background-color: #f1f1f1;
+    }
+
+    /* Estilo para las acciones de la tabla */
+    .table td a {
+        font-size: 14px;
+        color: #007bff;
+        text-decoration: none;
+        margin-right: 10px;
+    }
+
+        .table td a:hover {
+            color: #0056b3;
+            text-decoration: underline;
+        }
+
+/* Estilo para el diseño responsivo */
+@media (max-width: 768px) {
+    .table {
+        width: 100%;
+        margin: 20px 0;
+    }
+
+        .table th, .table td {
+            padding: 10px;
+            font-size: 14px;
+        }
+
+    h1 {
+        font-size: 28px;
+    }
+}
