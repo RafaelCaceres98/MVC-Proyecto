@@ -1,0 +1,19 @@
+﻿@model WebApplication2.Models.Product
+
+@{
+    ViewData["Title"] = "Confirmar Eliminación";
+}
+
+<h2>¿Está seguro de que desea eliminar este producto?</h2>
+
+<div>
+    <h3>@Model.Name</h3>
+    <p>Descripción: @Model.Description</p>
+    <p>Precio: @Model.Price</p>
+    <p>Categoría: @Model.Category</p>
+</div>
+
+<form method="post" asp-action="Delete" asp-route-id="@Model.Id">
+    <button type="submit" class="btn btn-danger">Eliminar</button>
+    <a href="@Url.Action("Index")" class="btn btn-secondary">Cancelar</a>
+</form>

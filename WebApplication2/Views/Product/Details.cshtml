@@ -1,0 +1,26 @@
+﻿@model WebApplication2.Models.Product
+
+@{
+    ViewData["Title"] = "Detalles del Producto";
+}
+
+<h2>@Model.Name</h2>
+
+<div>
+    <h4>Descripción</h4>
+    <p>@Model.Description</p>
+</div>
+
+<div>
+    <h4>Precio</h4>
+    <p>@Model.Price.ToString("C")</p> <!-- Muestra el precio con formato de moneda -->
+</div>
+
+<div>
+    <h4>Categoría</h4>
+    <p>@Model.Category</p>
+</div>
+
+<div>
+    <a href="@Url.Action("Index")" class="btn btn-secondary">Volver a la lista</a>
+</div>
